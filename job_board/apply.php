@@ -16,7 +16,5 @@ if ( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 //else {
 //     echo '<h2>Invalid Request.</h2>';
 // }
-?> 
-
 
 
